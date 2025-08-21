@@ -400,7 +400,7 @@ nav .nav-toggle.active .bar:nth-child(2) {
   right: 0;
   width: 300px;
   height: 200px;
-  background: linear-gradient(180deg, #3b82f6 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #ca7a3d 0%, #ffffff 100%);
   filter: blur(40px);
   z-index: -2;
 }
@@ -410,7 +410,7 @@ nav .nav-toggle.active .bar:nth-child(2) {
   left: 0;
   width: 300px;
   height: 200px;
-  background: linear-gradient(180deg, #3b82f6 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #ca7a3d 0%, #ffffff 100%);
   filter: blur(40px);
   z-index: -2;
 }
@@ -1118,7 +1118,7 @@ nav .nav-toggle.active .bar:nth-child(2) {
   right: 0;
   width: 300px;
   height: 200px;
-  background: linear-gradient(180deg, #3b82f6 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #ca7a3d 0%, #ffffff 100%);
   filter: blur(40px);
   z-index: 1;
 }
@@ -1128,7 +1128,7 @@ nav .nav-toggle.active .bar:nth-child(2) {
   left: 0;
   width: 300px;
   height: 200px;
-  background: linear-gradient(180deg, #3b82f6 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #ca7a3d 0%, #ffffff 100%);
   filter: blur(40px);
   z-index: 1;
 }
@@ -1200,3 +1200,4 @@ footer .footer-img img {
   margin-bottom: 15px;
 }
 /* End Footer */
+
